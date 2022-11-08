@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "peerDependencies": {
     "@angular/animations": "^13.0.0",
-    "@angular/cdk": "^13.3.9",
+    "@angular/cdk": "^13.0.0",
     "@angular/common": "^13.0.0",
     "@angular/compiler": "^13.0.0",
     "@angular/core": "^13.0.0",
